@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 💫 About Me:
 I am a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Analytics. I have hands-on experience building scalable web applications, RESTful APIs, and data-driven solutions using technologies such as Python, JavaScript, Django, FastAPI, React.js, Node.js, SQL, and modern databases. Skilled in data analysis, visualization, and machine learning, I enjoy transforming complex data into actionable insights. I am a quick learner with strong problem-solving abilities, a collaborative mindset, and a commitment to delivering innovative, high-quality solutions that create real-world impact.
 
