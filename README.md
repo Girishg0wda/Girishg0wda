@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Girisha S R, a Computer Science graduate passionate about Software Development, Artificial Intelligence, Machine Learning, and Data Analytics.<br><br>I enjoy building real-world applications that solve practical problems, from full-stack web platforms to machine learning systems and data-driven solutions. My experience includes developing REST APIs, responsive web applications, predictive models, and interactive dashboards using modern technologies.<br><br>Currently working on:<br><br>* Data Structures & Algorithms<br>* Machine Learning & AI Projects<br>* Full-Stack Web Development<br>* Open Source Contributions<br><br>Areas of Interest:<br><br>* Artificial Intelligence & Machine Learning<br>* Backend Engineering<br>* Full-Stack Development<br>* Data Analytics & Visualization<br>* Cloud Technologies<br><br>Currently Learning:<br><br>* Advanced Data Structures & Algorithms<br>* System Design Fundamentals<br>* MLOps & Model Deployment<br>* Scalable Backend Architecture<br><br>Fun Fact:<br>I love turning ideas into projects and continuously challenging myself by learning new technologies and solving complex problems.
+Hi, I'm **Girisha S R**, a Computer Science graduate passionate about **Software Development, Artificial Intelligence, Machine Learning, and Data Analytics**.<br><br>I enjoy building real-world applications that solve practical problems, from full-stack web platforms to machine learning systems and data-driven solutions. My experience includes developing REST APIs, responsive web applications, predictive models, and interactive dashboards using modern technologies.<br><br>Currently working on:<br><br>* Data Structures & Algorithms (FAANG Interview Preparation)<br>* Machine Learning & AI Projects<br>* Full-Stack Web Development<br>* Open Source Contributions<br><br>Areas of Interest:<br><br>* Artificial Intelligence & Machine Learning<br>* Backend Engineering<br>* Full-Stack Development<br>* Data Analytics & Visualization<br>* Cloud Technologies<br><br>Currently Learning:<br><br>* Advanced Data Structures & Algorithms<br>* System Design Fundamentals<br>* MLOps & Model Deployment<br>* Scalable Backend Architecture<br><br>Fun Fact:<br>I love turning ideas into projects and continuously challenging myself by learning new technologies and solving complex problems.<br>
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ Hi, I'm Girisha S R, a Computer Science graduate passionate about Software Devel
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Girishg0wda&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
