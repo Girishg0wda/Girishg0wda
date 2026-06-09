@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Girish R**, a Computer Science graduate passionate about **Software Development, Artificial Intelligence, Machine Learning, and Data Analytics**.<br><br>I enjoy building real-world applications that solve practical problems, from full-stack web platforms to machine learning systems and data-driven solutions. My experience includes developing REST APIs, responsive web applications, predictive models, and interactive dashboards using modern technologies.<br><br>Currently working on:<br><br>* Data Structures & Algorithms <br>* Machine Learning & AI Projects<br>* Full-Stack Web Development<br>* Open Source Contributions<br><br>Areas of Interest:<br><br>* Artificial Intelligence & Machine Learning<br>* Backend Engineering<br>* Full-Stack Development<br>* Data Analytics & Visualization<br>* Cloud Technologies<br><br>Currently Learning:<br><br>* Advanced Data Structures & Algorithms<br>* System Design Fundamentals<br>* MLOps & Model Deployment<br>* Scalable Backend Architecture<br><br>Fun Fact:<br>I love turning ideas into projects and continuously challenging myself by learning new technologies and solving complex problems.<br>
+Hi, I'm **Girisha S R**, a Computer Science graduate passionate about **Software Development, Artificial Intelligence, Machine Learning, and Data Analytics**.<br><br>I enjoy building real-world applications that solve practical problems, from full-stack web platforms to machine learning systems and data-driven solutions. My experience includes developing REST APIs, responsive web applications, predictive models, and interactive dashboards using modern technologies.<br><br>Currently working on:<br><br>* Data Structures & Algorithms <br>* Machine Learning & AI Projects<br>* Full-Stack Web Development<br>* Open Source Contributions<br><br>Areas of Interest:<br><br>* Artificial Intelligence & Machine Learning<br>* Backend Engineering<br>* Full-Stack Development<br>* Data Analytics & Visualization<br>* Cloud Technologies<br><br>Currently Learning:<br><br>* Advanced Data Structures & Algorithms<br>* System Design Fundamentals<br>* MLOps & Model Deployment<br>* Scalable Backend Architecture<br><br>Fun Fact:<br>I love turning ideas into projects and continuously challenging myself by learning new technologies and solving complex problems.<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ Hi, I'm **Girish R**, a Computer Science graduate passionate about **Software De
 # 📊 GitHub Stats:
 
 ### 🏆 My Achievements & Trophies
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=Girishg0wda&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=Girishg0wda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -30,3 +30,5 @@ Hi, I'm **Girish R**, a Computer Science graduate passionate about **Software De
 
 # 💭 Daily Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
